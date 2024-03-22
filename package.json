@@ -1,0 +1,28 @@
+{
+  "name": "ipsamveritatis",
+  "version": "1.0.0",
+  "description": "Build robust web3 applications seamlessly using Python with existing frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HertaTremblay/ipsamveritatis.git"
+  },
+  "keywords": [
+    "soluta",
+    "web3",
+    "pariatur",
+    "nfts",
+    "tokens"
+  ],
+  "author": "TheoGlover",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HertaTremblay/ipsamveritatis.git/issues"
+  },
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
